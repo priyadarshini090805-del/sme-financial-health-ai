@@ -31,4 +31,13 @@ This project is an AI-powered platform designed to assess and improve the financ
 - Security: Encrypted data at rest and in transit
 
 ## Project Structure
+sme-financial-health-ai/
+├── backend/
+├── frontend/
+├── docs/
+└── demo/
+
+## Status
+
+Project setup phase — backend, frontend, and AI modules will be implemented step-by-step.
 
